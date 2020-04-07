@@ -1,10 +1,10 @@
 ## Settings
 title: About Me
 owner: "Charles Yi"
-url: "https://akiritsu.github.io"
+url: "https://charlesHK.github.io"
 baseurl: "/pRoJEct-NeGYa"
 permalink: /:title/
-description: ""
+description: "About Who I am"
 markdown: kramdown
 webrick:
   headers:
